@@ -1,0 +1,1 @@
+but if i write in master does it affect others?
